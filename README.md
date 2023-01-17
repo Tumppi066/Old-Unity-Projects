@@ -7,4 +7,5 @@ A repository where I will upload all of the projects I have left. There are many
     physics sandbox. I completed all of the physics parts and main features, I just never
     made it an actual game.
     
-    There are still bugs but I'm extremely happy with how optimized I could make the game. WARNING : Planets will stutter if fps is lower than physics framerate, toggle an option in the main menu to couple them together.
+    There are still bugs but I'm extremely happy with how optimized I could make the game. 
+    WARNING : Planets will stutter if fps is lower than physics framerate, toggle an option in the main menu to couple them together.
